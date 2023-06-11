@@ -1,5 +1,7 @@
 # Data_Science_course
 
+![Data Science](https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg)
+
 |      Название проекта      |      Используемые навыки    |  Цель проекта                |
 | :--------------------:      | :---------------------:      |:---------------------------:|
 | [data_analysis_games](https://github.com/natzhl/data_analysis_games) | `Python` `Pandas`  | Выявление закономерностей успешности компьютерной игры  |
