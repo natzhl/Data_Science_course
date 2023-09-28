@@ -1,6 +1,6 @@
 # Data_Science_course
 
-![Data Science](https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg)
+![Data Science](https://www.tadviser.ru/images/thumb/2/2c/DATA_SCIENCE_AdobeStock-294794307.jpg/840px-DATA_SCIENCE_AdobeStock-294794307.jpg)
 
 |      Название проекта      |      Используемые навыки    |  Цель проекта                |
 | :--------------------:      | :---------------------:      |:---------------------------:|
