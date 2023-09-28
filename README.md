@@ -1,6 +1,6 @@
 # Data_Science_course
 
-![Data Science](https://www.tadviser.ru/images/thumb/2/2c/DATA_SCIENCE_AdobeStock-294794307.jpg/840px-DATA_SCIENCE_AdobeStock-294794307.jpg)
+![Data Science](https://www.freeshows.ru/i/news/img20230213_000.jpg)
 
 |      Название проекта      |      Используемые навыки    |  Цель проекта                |
 | :--------------------:      | :---------------------:      |:---------------------------:|
